@@ -1,0 +1,6 @@
+[submodule "libft"]
+	path = libft
+	url = git@github.com:Mzinngraf/libft-standard.git
+[submodule "libftprintf"]
+	path = libftprintf
+	url = git@github.com:Mzinngraf/libftprintf-standard.git
